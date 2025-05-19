@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net9.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>CreamsLib</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>BSY</Authors>
+    <Company>Creams</Company>
+    <Description>This is my custom NuGet package.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/tmdghtndud/TEST</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
